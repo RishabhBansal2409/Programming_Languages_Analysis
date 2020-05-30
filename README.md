@@ -1,8 +1,8 @@
 # Analysis on the Programming Languages
 
-Data Set's observations belongs to a [Stack Overflow](https://stackoverflow.com/) tag corresponding to each year. A tag is used to place the question under a category and it can be language name (Like Python , R , C# etc) or it can go more deep to represent the libraries (numpy,pandas,...) of a programming language. The dataset also includes both the number of questions asked in that tag in that year, and the total number of questions asked in that year.
+Data Set's observations belongs to a [Stack Overflow](https://stackoverflow.com/) tag corresponding to each year. A tag is used to place the question under a category and it can be language name (Like Python , R , C# etc) or it can go more deep to represent the libraries (numpy,pandas,...) of a programming language. The dataset also includes both the number of questions asked in that tag in that year, and the total number of questions asked in that year.Also , Racing Bar Chart was created to drive the point home.
 
-![](/images/Tags.PNG)
+![](images/Racing_Bar_Chart.gif)
 
 Steps followed to do the analysis are as follows:-
 
