@@ -19,15 +19,11 @@ amongst the users in the field of Data Science.
         a) Comparison among the data processing/manipulation libraries.   
         b) Comparison among the Natural Language Processing Libraries.  
         c) Comparison among the Machine Learning and Deep Learning Libraries.  
-        d) Compariosn among the Data Visualization Libraries.  
-
-![](/images/Data_Visualization_Libraries.PNG)
+        d) Comparison among the Data Visualization Libraries.  
 
 - More analysis was done to know what are the most common tags i.e. tags have the most no of questions.  
 
 - Also checked which languages are dying and what are the emerging ones.
-
-![](/images/Programming_languages_comparison.PNG)
 
 - Lastly analyzed how the three big mobile operating systems (Android, iOS, and Windows Phone) fare in popularity over time.
 
